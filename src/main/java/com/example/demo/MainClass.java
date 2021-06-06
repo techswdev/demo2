@@ -46,4 +46,9 @@ public class MainClass {
     public void test8(){
 
     }
+
+    @GetMapping("/test9")
+    public void test9(){
+
+    }
 }
