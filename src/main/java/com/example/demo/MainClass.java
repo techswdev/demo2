@@ -11,4 +11,11 @@ public class MainClass {
     public void test1(){
 
     }
+
+    @GetMapping("/test2")
+    public void test2(){
+
+    }
+    
+    
 }
