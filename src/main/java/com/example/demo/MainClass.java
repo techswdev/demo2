@@ -55,4 +55,11 @@ public class MainClass {
     public void test10(){
 
     }
+
+    @GetMapping("/dev/feature/test1")
+    public void devfeaturetest1(){
+
+    }
+
+
 }
