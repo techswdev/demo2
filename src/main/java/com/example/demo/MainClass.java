@@ -21,5 +21,9 @@ public class MainClass {
     public void test3(){
 
     }
+    @GetMapping("/test4")
+    public void test4(){
+
+    }
     
 }
