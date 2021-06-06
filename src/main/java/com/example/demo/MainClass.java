@@ -31,4 +31,9 @@ public class MainClass {
     public void test5(){
 
     }
+    
+    @GetMapping("/test6")
+    public void test6(){
+
+    }
 }
