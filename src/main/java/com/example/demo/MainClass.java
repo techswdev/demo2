@@ -26,4 +26,9 @@ public class MainClass {
 
     }
     
+    
+    @GetMapping("/test5")
+    public void test5(){
+
+    }
 }
