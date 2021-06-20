@@ -9,7 +9,7 @@ public class MainClass {
 
     @GetMapping("/test1")
     public void test1(){
-
+        System.out.println(":asdfasdf");
     }
 
     @GetMapping("/test2")
